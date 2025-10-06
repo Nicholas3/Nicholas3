@@ -3,7 +3,9 @@
 ![Nicholas Utama](img/github-header-banner.png)
 
 :mortar_board: Computer Science Student at Binus University
+
 :fire: Passionate about Cloud, Cybersecurity, and Tech Innovation
+
 :books: Always learning and improving
 
 --- 
