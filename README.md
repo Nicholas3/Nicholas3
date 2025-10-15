@@ -11,7 +11,7 @@
 --- 
 ### :globe_with_meridians: Connect With Me
 
-![https://www.linkedin.com/in/nicholas-utama-860a17292/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![nicholasutama6@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-utama-860a17292/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nicholasutama6@gmail.com)
 
 ---
 ### :gear: Skills
